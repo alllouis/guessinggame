@@ -1,2 +1,3 @@
-# guessinggame
- Ce programme demandera continuellement à l'utilisateur de deviner le nombre de fichiers dans le répertoire actuel, jusqu'à ce qu'il devine le bon nombre. L'utilisateur sera informé si son estimation est trop élevée ou trop basse. Une fois que l'utilisateur a deviné le nombre correct de fichiers dans le répertoire actuel, il doit être félicité.
+# Guessing Game
+Date and Time: Mon Apr 29 18:53:13 UTC 2024
+Number of lines of code: 24
